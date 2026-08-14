@@ -5,6 +5,10 @@ basic chatbot demos that lose all context on restart, MemoryBot stores
 every conversation in a real SQLite database, supports multiple
 named chat sessions, and lets you revisit or delete past conversations.
 
+## 🚀 Live Demo
+
+https://memory-bot-4yde6qykmmdn8fwmxqvfqi.streamlit.app/
+
 ## Features
 
 - 🗄️ **Persistent memory** — conversations are stored in a SQLite database and survive app restarts
